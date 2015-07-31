@@ -1,5 +1,5 @@
 # hola_mundo
-# primer programa en mi GitHub , bueno ni programa ni nada, que esto es un fichero de comentarios.
+primer programa en mi GitHub , bueno ni programa ni nada, que esto es un fichero de comentarios, el programa está en el otro fichero "hola_mundo.c"
 
 El fichero hola_mundo es el que escribe "hola mundo" en el terminal.
 No escribo este ejemplo porque esté obsesionado con los '80; lo que te pasa es que te crees una bruja consumada, pero realmentea es que estás intoxicada, y eso que dicen que ya no tomas nada, pero me dicen por ahí, que sí, que sí,...
