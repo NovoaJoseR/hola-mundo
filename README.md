@@ -20,7 +20,7 @@ $ gcc -o hola hola_mundo.c
 
 Con eso el fichero de salida se llamará hola, y es el ejecutable, que para que saque el mensaje por el terminal tenemos que ejecutarlo así:
 
-$ /hola
+$ ./hola
 
 Y sale en la siguiente línea el mensaje.
 Y eso es todo.
