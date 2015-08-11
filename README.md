@@ -6,7 +6,7 @@ No escribo este ejemplo porque esté obsesionado con los '80; lo que te pasa es 
 
 Una vez escrito este programa en un ordenador o en la web de GitHub, nos vamos a una máquina con Linux, y ahí abrimos un terminal, una vez ahí se ejecuta git clone con el path a este repositorio, en este caso es:
 
-$ git hub https://github.com/NovoaJoseR/hola-mundo.git
+$ git clone https://github.com/NovoaJoseR/hola-mundo.git
 
 Luego aparecerá el directorio debajo de donde estábamos, nos vamos ahí con el comando:
 
