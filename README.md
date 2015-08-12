@@ -1,8 +1,7 @@
 # hola_mundo
-primer programa en mi GitHub , bueno ni programa ni nada, que esto es un fichero de comentarios, el programa está en el otro fichero "hola_mundo.c"
+primer programa en mi GitHub , bueno realmente esto es un fichero de comentarios, el programa está en el otro fichero "hola_mundo.c"
 
 El fichero hola_mundo es el que escribe "hola mundo" en el terminal.
-No escribo este ejemplo porque esté obsesionado con los '80; lo que te pasa es que te crees una bruja consumada, pero realmentea es que estás intoxicada, y eso que dicen que ya no tomas nada, pero me dicen por ahí, que sí, que sí,...
 
 Una vez escrito este programa en un ordenador o en la web de GitHub, nos vamos a una máquina con Linux, y ahí abrimos un terminal, una vez ahí se ejecuta git clone con el path a este repositorio, en este caso es:
 
@@ -24,3 +23,5 @@ $ ./hola
 
 Y sale en la siguiente línea el mensaje.
 Y eso es todo.
+
+También lo pruebo en MAC y funciona igual, además como me he instalado el GitHub desktop para MAC, lo puedo llevar directamente, pero de momento prefiero hacerlo con la línea de comandos a partir de una ventana de terminal ya que me parece un tanto extraño el desktop.
